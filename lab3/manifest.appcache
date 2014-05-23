@@ -1,0 +1,15 @@
+# CACHE MANIFEST
+# version 2014-11-30
+CACHE:
+
+# html files
+# calculator.html
+
+# js files
+static/calculator.js
+
+# css files
+static/calculator.css
+
+# img files
+static/mylogo.png
